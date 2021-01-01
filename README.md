@@ -1,1 +1,1 @@
-![yudai0731's github stats](https://github-readme-stats.vercel.app/api?username=yudai0731)
+![yudai0731's github stats](https://github-readme-stats.vercel.app/api?username=yudai0731&theme=midnight-purple)
